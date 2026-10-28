@@ -1,0 +1,21 @@
+{
+  "name": "Titik Koempoel",
+  "short_name": "Koempoel",
+  "description": "Tempat Kumpul & Membaca Artikel Menarik",
+  "start_url": "https://titikoempoel.my.id/?utm_source=pwa",
+  "display": "standalone",
+  "background_color": "#173E2F",
+  "theme_color": "#173E2F",
+  "icons": [
+    {
+      "src": "URL_IKON_192px_ANDA_DI_SINI",
+      "sizes": "192x192",
+      "type": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7KqqltZa0CHq_qS4nzeUVAyKQU4x1xEYE016BHMQbd2Poj5GRkgtKTgsk2eIKCd5N6D0qs5vCQhz_fhyphenhyphenKYtMNv8pO208ytg8DtfKpLwTe3e-bZrDc0kDMVI0EJOgBCre5tCG0iNTMYheaCXcZL8AuuqAlvuwbyyWMTO6ycONK76rT0lElWzMRqhJhYan7/s192/49047.png"
+    },
+    {
+      "src": "URL_IKON_512px_ANDA_DI_SINI",
+      "sizes": "512x512",
+      "type": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM7w9A0FoYfsg234P6kOJyRUFEILM2M6obWeunAi5Rts_2vmvnM5eFFXktBU-HUJdikyWigkrpjPsSeHB6fJotJW0ePZtjLjc_cKXoFLqGc5lznohPzciIyCTTBJKBCq9M7E2GmXVPClsJWq1slXGatijXXDvCPTDDIOzpbBM_pGXJrpDSJX6v1rYpfuhM/s512/49046.png"
+    }
+  ]
+}
